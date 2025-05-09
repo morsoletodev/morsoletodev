@@ -6,10 +6,10 @@
 
 ## **About me**
 
-- ⚡ I am a data scientist focused on turning raw data into something useful by all
+- ⚡ I am a data scientist focused on turning raw data into something useful
 - 😄 What I like: Python, Data and Challenges
 - 🌱 You can see some of my work at [GOPAD](https://github.com/GOPAD-Datasus)
-- 🔭 Currently looking for improving my knowledge on Deep Learning models
+- 🔭 Currently looking to improve my knowledge on Deep Learning models
 
 <!--
 **morsoletodev/morsoletodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
