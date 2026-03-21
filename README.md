@@ -1,6 +1,6 @@
 # ![Hello, I'm R. Morsoleto.](.assets/banner.png)
 
-> [!NOTE]  
+> [!NOTE]  About me  
 > Welcome to my GitHub profile! I'm passionate about transforming complex data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end data projects, from data collection and preprocessing to model deployment and monitoring.
 
 ## My Go-To Technologies
