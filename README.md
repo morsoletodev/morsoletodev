@@ -1,32 +1,30 @@
-# Hello, I'm R. Morsoleto 👋
+# ![Hello, I'm R. Morsoleto.](.assets/banner.png)
 
-> **Data Scientist | Python Developer | AI Enthusiast**
+> [!NOTE]  
+> Welcome to my GitHub profile! I'm passionate about transforming complex data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end data projects, from data collection and preprocessing to model deployment and monitoring.
 
-Welcome to my GitHub profile! I'm passionate about transforming complex data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end data projects, from data collection and preprocessing to model deployment and monitoring.
+## My Go-To Technologies
 
-## 🛠️  My Go-To Technologies
+![Python](https://img.shields.io/badge/Python-0073cf?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-6C757D?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0073cf?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6C757D?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0073cf?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-6C757D?style=for-the-badge&logo=neo4j&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## GitHub Stats
+
+<img 
+style="display: block; margin-left: auto; margin-right: auto;" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=morsoletodev&theme=transparent&hide_border=true">
 
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Let's Connect
 
-<!-- ## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=morsoletodev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsoletodev&layout=compact&theme=radical) -->
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/morsoletodev)
-- [Portfolio](https://morsoletodev.github.io/)
-- [Email](mailto:morsoleto.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0073cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/morsoletodev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C757D?style=for-the-badge&logo=About.me&logoColor=white)](https://morsoletodev.github.io/)
+[![Email](https://img.shields.io/badge/Email-0073cf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morsoleto.dev@gmail.com)
 
 ---
 
-⭐️ From [R. Morsoleto](https://github.com/morsoletodev)
+By R. Morsoleto
