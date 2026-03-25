@@ -15,9 +15,14 @@
 
 ## GitHub Stats
 
-<img 
-style="display: block; margin-left: auto; margin-right: auto;" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=morsoletodev&theme=transparent&hide_border=true">
+<p align="center">
+  <a>
+    <img 
+      style="display: block; margin-left: auto; margin-right: auto;" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=morsoletodev&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
 
 
 ## Let's Connect
