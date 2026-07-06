@@ -1,8 +1,7 @@
 # ![Hello, I'm R. Morsoleto.](.assets/banner.png)
 
-> [!NOTE] 
-> **About me**  
-> Welcome to my GitHub profile! I'm passionate about transforming complex data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end data projects, from data collection and preprocessing to model deployment and monitoring.
+> [!NOTE]
+> **Welcome to my GitHub profile!** I'm passionate about the process of transforming complex data into actionable insights and building AI models that solve real-world problems. I enjoy working on end-to-end data projects, even when messy data is involved!
 
 ## My Go-To Technologies
 
@@ -33,4 +32,4 @@
 
 ---
 
-By R. Morsoleto
+By Morsoleto
